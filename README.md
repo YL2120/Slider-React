@@ -1,4 +1,4 @@
-#Slider
+# Slider
 
 Little Slider made with React & TypeScript.
 
